@@ -26,8 +26,8 @@ export default function Home() {
               <div className="space-y-6 text-center lg:text-left">
                 <div>
                   <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 text-default-900 leading-tight">
-                    Store your <span className="text-primary">images</span> with
-                    ease
+                    Simpan <span className="text-primary">Dokumentasi</span>{" "}
+                    Kegiatan
                   </h1>
                   <p className="text-lg md:text-xl text-default-600">
                     Simple. Secure. Fast.
@@ -98,7 +98,7 @@ export default function Home() {
                 <CardBody className="p-6 text-center">
                   <Folder className="h-10 md:h-12 w-10 md:w-12 mx-auto mb-4 text-primary" />
                   <h3 className="text-lg md:text-xl font-semibold mb-2 text-default-900">
-                    Smart Organization
+                    SmartASN
                   </h3>
                   <p className="text-default-600">
                     Keep it tidy, find it fast.
