@@ -88,9 +88,9 @@ export default function Home() {
                 <CardBody className="p-6 text-center">
                   <CloudUpload className="h-10 md:h-12 w-10 md:w-12 mx-auto mb-4 text-primary" />
                   <h3 className="text-lg md:text-xl font-semibold mb-2 text-default-900">
-                    Quick Uploads
+                    Upload dokumen
                   </h3>
-                  <p className="text-default-600">Drag, drop, done.</p>
+                  <p className="text-default-600">Drag, drop, upload</p>
                 </CardBody>
               </Card>
 
@@ -101,7 +101,7 @@ export default function Home() {
                     SmartASN
                   </h3>
                   <p className="text-default-600">
-                    Keep it tidy, find it fast.
+                    Organisasi data terstruktur
                   </p>
                 </CardBody>
               </Card>
@@ -112,9 +112,7 @@ export default function Home() {
                   <h3 className="text-lg md:text-xl font-semibold mb-2 text-default-900">
                     Locked Down
                   </h3>
-                  <p className="text-default-600">
-                    Your images, your eyes only.
-                  </p>
+                  <p className="text-default-600">keamanan data terjamin</p>
                 </CardBody>
               </Card>
             </div>
@@ -125,7 +123,7 @@ export default function Home() {
         <section className="py-12 md:py-20 px-4 md:px-6 bg-default-50">
           <div className="container mx-auto text-center">
             <h2 className="text-2xl md:text-3xl font-bold mb-4 text-default-900">
-              Ready?
+              Daftar sekarang
             </h2>
             <SignedOut>
               <div className="flex flex-wrap justify-center gap-4 mt-8">
