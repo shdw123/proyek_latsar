@@ -16,7 +16,7 @@
     "@clerk/nextjs": "^6.12.4",
     "@heroui/avatar": "^2.2.12",
     "@heroui/badge": "^2.2.10",
-    "@heroui/button": "2.2.16",
+    "@heroui/button": "^2.2.12",
     "@heroui/card": "^2.2.15",
     "@heroui/code": "2.2.12",
     "@heroui/divider": "^2.2.11",
@@ -34,11 +34,7 @@
     "@heroui/system": "^2.4.18",
     "@heroui/table": "^2.2.15",
     "@heroui/tabs": "^2.2.13",
-<<<<<<< HEAD
-    "@heroui/theme": "^2.4.17",
-=======
     "@heroui/theme": "2.4.17",
->>>>>>> 559b92419418a2928d4ceeb78a9349729156622f
     "@heroui/toast": "^2.0.6",
     "@heroui/tooltip": "^2.2.13",
     "@hookform/resolvers": "^4.1.3",
