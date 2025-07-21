@@ -30,7 +30,7 @@ export default function Home() {
                     Kegiatan
                   </h1>
                   <p className="text-lg md:text-xl text-default-600">
-                    Simple. Secure. Fast.
+                    Sederhana, Aman, dan Cepat.
                   </p>
                 </div>
 
@@ -38,7 +38,7 @@ export default function Home() {
                   <SignedOut>
                     <Link href="/sign-up">
                       <Button size="lg" variant="solid" color="primary">
-                        Get Started
+                        Sign Up
                       </Button>
                     </Link>
                     <Link href="/sign-in">
@@ -79,7 +79,7 @@ export default function Home() {
           <div className="container mx-auto">
             <div className="text-center mb-8 md:mb-12">
               <h2 className="text-2xl md:text-3xl font-bold mb-4 text-default-900">
-                What You Get
+                Fitur
               </h2>
             </div>
 
@@ -134,7 +134,7 @@ export default function Home() {
                     color="primary"
                     endContent={<ArrowRight className="h-4 w-4" />}
                   >
-                    Let's Go
+                    Sign Up
                   </Button>
                 </Link>
               </div>
