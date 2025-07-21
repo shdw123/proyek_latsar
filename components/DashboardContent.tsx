@@ -54,6 +54,7 @@ export default function DashboardContent({
           </span>
           !
         </h2>
+
         <p className="text-default-600 mt-2 text-lg">
           Your images are waiting for you.
         </p>
