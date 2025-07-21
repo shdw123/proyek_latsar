@@ -87,8 +87,8 @@
       }
     ],
     "padding-line-between-statements": [
-      "warn",
-      { "blankLine": "always", "prev": "*", "next": "return" },
+      "error",
+      { "blankLine": "always", "prev": "function", "next": "return" },
       { "blankLine": "always", "prev": ["const", "let", "var"], "next": "*" },
       {
         "blankLine": "any",
@@ -100,7 +100,6 @@
       { "blankLine": "always", "prev": "directive", "next": "*" },
       { "blankLine": "always", "prev": "block-like", "next": "*" },
       { "blankLine": "always", "prev": "*", "next": "function" },
-      { "blankLine": "always", "prev": "*", "next": "function-expression" },
       { "blankLine": "always", "prev": "*", "next": "block-like" },
       { "blankLine": "always", "prev": "import", "next": "*" },
       { "blankLine": "any", "prev": "import", "next": "import" },
