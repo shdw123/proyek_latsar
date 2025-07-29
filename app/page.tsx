@@ -55,7 +55,7 @@ export default function Home() {
                         color="primary"
                         endContent={<ArrowRight className="h-4 w-4" />}
                       >
-                        Go to Dashboard
+                        Ke Dashboard
                       </Button>
                     </Link>
                   </SignedIn>
@@ -110,7 +110,7 @@ export default function Home() {
                 <CardBody className="p-6 text-center">
                   <Shield className="h-10 md:h-12 w-10 md:w-12 mx-auto mb-4 text-primary" />
                   <h3 className="text-lg md:text-xl font-semibold mb-2 text-default-900">
-                    Locked Down
+                    Aman
                   </h3>
                   <p className="text-default-600">keamanan data terjamin</p>
                 </CardBody>
